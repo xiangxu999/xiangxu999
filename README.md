@@ -1,7 +1,7 @@
 ## Hi here 👋
 一个简单的技术爱好者
 
-[个人博客](www.xiangxu999.com)
+[个人博客](https://www.xiangxu999.com)
 
 
 ## &#x1f4c8; GitHub
